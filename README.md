@@ -1,6 +1,6 @@
 # Datapane
 ### Hello World
-Initial exploration of Datapane, a Python framework for building dashboards. Inspired by Khuyen Tran's excellent [article](https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b) about Datapane on Medium. 
+Initial exploration of Datapane, a Python framework for building dashboards. Inspired by Khuyen Tran's excellent [article](https://towardsdatascience.com/datapanes-new-features-create-a-beautiful-dashboard-in-python-in-a-few-lines-of-code-a3c44523292b) about Datapane on Medium in towards data science. 
 
 I used Datapane's suggested starter code to create a covid dashboard. I customized for three selected countries. 
 - United Arab Emirates
